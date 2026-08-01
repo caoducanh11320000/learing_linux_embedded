@@ -10,3 +10,5 @@ NVIDIA Jetson (Tegra).
 - Phase 1 — Yocto, Device Tree, first drivers (Jetson) *(upcoming)*
 - Phase 2 — Kernel internals & upstream (Jetson) *(upcoming)*
 - Phase 3 — Subsystem specialization: V4L2 / camera *(upcoming)*
+
+  - [Week 2 — U-Boot & the boot chain](phase0-fundamentals/week2-uboot/)
