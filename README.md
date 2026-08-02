@@ -12,3 +12,5 @@ NVIDIA Jetson (Tegra).
 - Phase 3 — Subsystem specialization: V4L2 / camera *(upcoming)*
 
   - [Week 2 — U-Boot & the boot chain](phase0-fundamentals/week2-uboot/)
+
+  - [Week 3: TFTP network boot](phase0-fundamentals/week3-tftp/)
