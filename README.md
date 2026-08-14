@@ -14,3 +14,5 @@ NVIDIA Jetson (Tegra).
   - [Week 2 — U-Boot & the boot chain](phase0-fundamentals/week2-uboot/)
 
   - [Week 3: TFTP network boot](phase0-fundamentals/week3-tftp/)
+
+  - [Week 4 — Building and booting my own kernel](phase0-fundamentals/week4-kernel/)
