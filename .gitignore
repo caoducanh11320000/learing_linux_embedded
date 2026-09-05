@@ -1,2 +1,5 @@
 phase0-fundamentals/week2-uboot/u-boot/
 phase0-fundamentals/week4-kernel/linux/
+phase0-fundamentals/week5-rootfs/busybox/
+phase0-fundamentals/week5-rootfs/rootfs/
+phase0-fundamentals/week5-rootfs/initramfs.cpio.gz
