@@ -3,3 +3,5 @@ phase0-fundamentals/week4-kernel/linux/
 phase0-fundamentals/week5-rootfs/busybox/
 phase0-fundamentals/week5-rootfs/rootfs/
 phase0-fundamentals/week5-rootfs/initramfs.cpio.gz
+phase0-fundamentals/week6-buildroot/buildroot/
+phase0-fundamentals/week6-buildroot/buildroot/

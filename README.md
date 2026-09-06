@@ -18,3 +18,5 @@ NVIDIA Jetson (Tegra).
   - [Week 4 — Building and booting my own kernel](phase0-fundamentals/week4-kernel/)
 
   - [Week 5 — Root filesystem: reaching a shell](phase0-fundamentals/week5-rootfs/)
+
+  - [Week 6: Buildroot — automating the whole boot chain](phase0-fundamentals/week6-buildroot)
